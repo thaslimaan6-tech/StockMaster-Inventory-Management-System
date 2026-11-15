@@ -359,5 +359,3 @@ Through the development of StockMaster, we gained practical experience in:
 This project is developed for academic and educational purposes.
 
 ---
-
-⭐ If you find this project useful, consider giving the repository a star!
